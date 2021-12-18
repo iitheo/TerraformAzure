@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/EWallet
+/EWallet.Core/obj
+/EWallet.Core/bin
+/EWallet.Infrastructure/obj
+/EWallet.Infrastructure/bin
+/EWallet.Repositories/obj
+/EWallet.Repositories/bin
+/EWallet.WebApi/obj
+/EWallet.WebApi/bin
+<<<<<<< HEAD
+/.idea/
+.idea/
+=======
+>>>>>>> 9b07b5595bc9e832f7d055310315fb5338444966
